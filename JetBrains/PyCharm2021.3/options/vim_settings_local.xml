@@ -1,0 +1,135 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">d1w=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/utils/detectFps.ts" timestamp="1647760788596">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/utils/routes/index.ts" timestamp="1647758353203">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/utils/routes/protectedRoutes.ts" timestamp="1647758419145">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/utils/routes/middlewares/index.ts" timestamp="1647758376009">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="27" column="6" />
+        <mark key="." line="27" column="5" />
+        <mark key="^" line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/services/auth.ts" timestamp="1647760266184">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="24" />
+      </file>
+      <file name="/" timestamp="1647755914537">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/components/molecules/TemplateContainer/index.tsx" timestamp="1647764498071">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/utils/index.ts" timestamp="1647760381937">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="19" column="8" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/models/middleware.ts" timestamp="1647758269996">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/asset-manager/src/App.tsx" timestamp="1647480043695">
+        <mark key="'" line="23" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/services/index.ts" timestamp="1647758605818">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/Vendible/wallet-frontend/utils/regex/index.ts" timestamp="1647757902951">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="18" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="23" column="13" filename="$USER_HOME$/Documents/Vendible/asset-manager/src/App.tsx" />
+      <jump line="19" column="19" filename="$USER_HOME$/Documents/Vendible/wallet-frontend/utils/index.ts" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHVzZUVmZmVjdCA=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IHVzZUVmZmVjdCA=</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdXNlTW90aW9uVmFsdWUgfSBmcm9tICJmcmFtZXItbW90aW9uIjsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdCB4ID0gdXNlTW90aW9uVmFsdWUoMCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgeC5vbkNoYW5nZSgodikgPT4gY29uc29sZS5sb2coeCkpOwogIH0sIFtdKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGljaygpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZHJhdyhsYWcgLyB1cGRhdGVfcmF0ZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1cGRhdGUoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZHJhdyhsYWcgLyB1cGRhdGVfcmF0ZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB1cGRhdGUoKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICByZXF1ZXN0QW5pbWF0aW9uRnJhbWU7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">d1w=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

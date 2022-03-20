@@ -1,0 +1,32 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/Vendible/asset-manager">
+          <value>
+            <RecentProjectMetaInfo frameTitle="asset-manager – App.tsx" projectWorkspaceId="26UL9tve8dKyIXty3zQLCebbk7w">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-213.6777.50" />
+              <option name="buildTimestamp" value="1643295074478" />
+              <frame x="12" y="47" width="1892" height="1017" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1647473070708" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Vendible/wallet-frontend">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wallet-frontend – auth.ts" opened="true" projectWorkspaceId="26ddunptwFhwHWX14W3jlQJm6pG">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-213.6777.50" />
+              <option name="buildTimestamp" value="1643295079803" />
+              <frame x="12" y="47" width="1892" height="1017" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1647757621825" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="BuiltInServer.html" value="1647473078108" />
+        <entry key="DotEtcInLookups.html" value="1647755733147" />
+        <entry key="ImagesLookup.html" value="1647473076715" />
+        <entry key="InPlaceRefactoring.html" value="1647473078602" />
+        <entry key="PrintKeywords.html" value="1647473078794" />
+        <entry key="QuickJavaDoc.html" value="1647755738384" />
+      </map>
+    </option>
+  </component>
+</application>

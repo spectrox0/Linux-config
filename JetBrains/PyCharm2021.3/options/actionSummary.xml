@@ -1,0 +1,130 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="4" l="1647758465738" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1647758247363" />
+    </e>
+    <e n="$Redo">
+      <i c="15" l="1647758882557" />
+    </e>
+    <e n="$SelectAll">
+      <i c="6" l="1647758710230" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="3" l="1647473083748" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="4" l="1647769280035" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="3" l="1647758355875" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="26" l="1647764231235" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="194" l="1647764497033" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="39" l="1647764220568" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="7" l="1647760375844" />
+    </e>
+    <e n="EditorDown">
+      <i c="59" l="1647764207681" />
+    </e>
+    <e n="EditorEnter">
+      <i c="21" l="1647764198634" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1647758787322" />
+    </e>
+    <e n="EditorUp">
+      <i c="55" l="1647764202880" />
+    </e>
+    <e n="FindInPath">
+      <i c="5" l="1647760118253" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="11" l="1647761225240" />
+    </e>
+    <e n="Images.SetBackgroundImage">
+      <i c="6" l="1647755914432" />
+    </e>
+    <e n="InspectCode">
+      <i c="3" l="1647758227234" />
+    </e>
+    <e n="NewDir">
+      <i c="2" l="1647758318189" />
+    </e>
+    <e n="NewFile">
+      <i c="6" l="1647764260596" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1647757614890" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="3" l="1647760716444" />
+    </e>
+    <e n="ReformatCode">
+      <i c="9" l="1647760358010" />
+    </e>
+    <e n="SaveAll">
+      <i c="23" l="1647769275283" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="6" l="1647764255229" />
+    </e>
+    <e n="ShowReformatFileDialog">
+      <i c="3" l="1647760233558" />
+    </e>
+    <e n="ShowSettings">
+      <i c="12" l="1647760144474" />
+    </e>
+    <e n="Switcher">
+      <i c="32" l="1647764466814" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1647758831789" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1647473060547" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1647760128247" />
+    </e>
+    <e n="com.intellij.lang.typescript.intentions.TypeScriptAddImportStatementFix$2">
+      <i c="1" l="1647758399772" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="2251" l="1647769274523" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="9" l="1647764255945" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="7" l="1647760316629" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="3" l="1647757611777" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="1" l="1647757647133" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="1" l="1647764195548" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="1" l="1647760125558" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$2">
+      <i c="1" l="1647474535448" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="23" l="1647769275265" />
+    </e>
+  </component>
+</application>

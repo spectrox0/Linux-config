@@ -1,0 +1,76 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="26UL9tve8dKyIXty3zQLCebbk7w">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26ddunptwFhwHWX14W3jlQJm6pG">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="editorAAType" value="Greyscale" />
+    <option name="fontFace" value="SauceCodePro Nerd Font" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+    <option name="ideAAType" value="Greyscale" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="InstalledPluginsSearchHistory" value="nyan&#10;nya&#10;docker" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="17" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.doNotKeepLineBreaks" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesTypeScript" value="true" />
+    <property name="MarketplacePluginsSearchHistory" value="rki&#10;ki&#10;k&#10;git&#10;prettier" />
+    <property name="NextRunPlatformUpdateBuild" value="PY-213.7172.26/2021.3.3" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.3.3" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="F" />
+    <property name="appcds.runOnSecondStart" value="PY-213.7172.26-c8f4a7501ed36391ddbde4f0f8a10dfb357b07c925f205714f4b48a5537c0602" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="PY-213.7172.26" />
+    <property name="evlsprt3.213" value="4" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Vendible/wallet-frontend&#10;/home/alejandro/Downloads/wallpaper.jpg&#10;/home/alejandro/Documents/Vendible/asset-manager" />
+    <property name="file.gist.reindex.count" value="36" />
+    <property name="fileTypeChangedCounter" value="37" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.docker.dockerFile.DockerFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="gotit.previous.run" value="PY-213.6777.50" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="idea.background.editor" value="$USER_HOME$/Downloads/wallpaper.jpg,15,scale,center" />
+    <property name="ideavim.statistics.timestamp" value="1647755914540" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/wallpaper.jpg" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="$USER_HOME$/Downloads/wallpaper.jpg" />
+    <property name="registry.to.advanced.settings.migration.build" value="PY-213.7172.26" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.5.4" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="wallet-frontend-history" project-path="$USER_HOME$/Documents/Vendible/wallet-frontend" last-access-time="1647757624803" />
+    </command-history-files>
+  </component>
+</application>
